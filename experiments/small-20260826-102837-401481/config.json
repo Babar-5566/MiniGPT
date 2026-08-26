@@ -1,0 +1,17 @@
+{
+  "block_size": 128,
+  "vocab_size": 513,
+  "n_embd": 128,
+  "n_head": 4,
+  "n_layer": 4,
+  "dropout": 0.1,
+  "learning_rate": 0.0003,
+  "min_learning_rate": 3e-05,
+  "batch_size": 32,
+  "max_iters": 20,
+  "eval_interval": 200,
+  "eval_iters": 50,
+  "warmup_iters": 100,
+  "lr_decay_iters": 2000,
+  "early_stopping_patience": 5
+}

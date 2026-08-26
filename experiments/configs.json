@@ -1,0 +1,5 @@
+{
+  "tiny": {"n_embd": 64, "n_head": 4, "n_layer": 2, "block_size": 64},
+  "small": {"n_embd": 128, "n_head": 4, "n_layer": 4, "block_size": 128},
+  "medium": {"n_embd": 192, "n_head": 6, "n_layer": 6, "block_size": 128}
+}

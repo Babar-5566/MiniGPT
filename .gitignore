@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+checkpoints/*.pt
+experiments/*.png
+data/*.txt
+.env
+.env.*
+!.env.example
+.venv/
+*.py[cod]
+.pytest_cache/
+checkpoints/
+*.pt
+*.pth

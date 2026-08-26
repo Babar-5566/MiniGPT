@@ -1,0 +1,9 @@
+{
+  "parameter_count": 137024,
+  "training_time_sec": 151.02309727668762,
+  "steps": 2000,
+  "seed": 1337,
+  "final_train_loss": 6.14386510848999,
+  "final_validation_loss": 5.820470895767212,
+  "final_perplexity": 337.1306137321054
+}
